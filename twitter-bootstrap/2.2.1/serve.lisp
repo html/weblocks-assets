@@ -1,1 +1,1 @@
-(serve-directory "bootstrap" "bootstrap/docs/assets")
+(serve-directory "bootstrap/docs/assets" "bootstrap")
