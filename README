@@ -4,3 +4,5 @@ Here is example of using jQuery assets package.
 
 (weblocks-utils:require-assets 
  "https://raw.github.com/html/weblocks-assets/master/jquery/1.8.2/")
+
+For more information see Weblocks-utils package README https://github.com/html/weblocks-utils
